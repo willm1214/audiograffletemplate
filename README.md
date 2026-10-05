@@ -11,7 +11,7 @@ Follow this file path:
 
     /Library/Containers/com.omnigroup.OmniGraffle7/Data/Library/Application Support/The Omni Group/OmniGraffle
 
-Then drag and drop the template into the "Stencils" folder.
+Then drag and drop the _.gstencil_ into the "Stencils" folder.
 
 **_Where is the "Library" folder?_**
 
