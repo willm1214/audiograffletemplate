@@ -1,7 +1,7 @@
 # WELCOME
 Audio Engineering Template for OmniGraffle
 
-A working template for OmniGraffle to make drafting System Block Diagrams, Network Diagrams, etc. easier for audio!
+A working template for OmniGraffle to make drafting System Block Diagrams, Network Diagrams, etc. easier for audio nerds like me!
 
 To **_download_**, please see "Releases" to the right. Enjoy!      ->
 
