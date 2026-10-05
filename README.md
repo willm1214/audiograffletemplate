@@ -18,4 +18,7 @@ Then drag and drop the template into the "Stencils" folder.
 Open FINDER -> Go + Hold ALT Key -> "Library" will appear!
 
 # I have a suggestion, request, or issue!
-Create a post on the Wiki page found above.
+Create a post on the Wiki page found in the bar above
+
+Happy drafting,
+Will M.
